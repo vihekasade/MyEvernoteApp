@@ -1,2 +1,3 @@
 # MyEvernoteApp
-Bu uygulama küçük bir not uygulamasıdır.
+Bu uygulama kÃ¼Ã§Ã¼k bir not uygulamasÄ±dÄ±r.
+Bu satÄ±r, GitHub'tan gÃ¶nderildi.
